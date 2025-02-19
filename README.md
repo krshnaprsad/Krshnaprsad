@@ -1,8 +1,3 @@
-Got it! Here’s a funnier and more fitting GitHub bio for you as a developer + artist:
-
-
----
-
 🎨💻 Hi, I’m Krishna Prasad!
 
 🚀 Multimedia Designer | Amateur Developer | Professional Overthinker
