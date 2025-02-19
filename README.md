@@ -1,16 +1,28 @@
-## Hi there 👋
+Got it! Here’s a funnier and more fitting GitHub bio for you as a developer + artist:
 
-<!--
-**krshnaprsad/Krshnaprsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨💻 Hi, I’m Krishna Prasad!
+
+🚀 Multimedia Designer | Amateur Developer | Professional Overthinker
+🎭 Code + Art = Creative Chaos
+💡 Philosophy: 
+(
+If it looks good, it's intentional. If it breaks, it’s modern art.
+)
+🔍 Debugging: Like fixing a painting… except the brush yells "SyntaxError" at me.
+
+📌 How I Work:
+
+Code: Structured, precise, (mostly).
+
+Design: Abstract, expressive, (intentionally messy).
+
+Git commits: A mix of "fixed everything", "broke everything", and "why did this work?"
+
+
+🎨 Fun fact: I refactor my code like I refine my sketches—over and over until it feels right.
+
+
+---
